@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GradeBook class="CSE 598">
+    <Grade>
+        <Student>
+            <Name>Clark Kent</Name>
+            <ID>555-12-3456</ID>
+            <AssignedWork>
+                <GradedWork category="Exams">
+                    <Name>ID</Name>
+                    <Grade>20</Grade>
+                    <Name>Mid Term</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+                <GradedWork category="Assignments">
+                    <Name>ID</Name>
+                    <Grade>80</Grade>
+                    <Name>Mid Term</Name>
+                    <Grade>95</Grade>
+                </GradedWork>
+                <GradedWork category="Programming Assignments">
+                    <Name>ID</Name>
+                    <Grade>80</Grade>
+                </GradedWork>
+            </AssignedWork>
+            <Total>63.5</Total>
+            <Grade>D</Grade>
+        </Student>
+        <Student>
+            <Name>Bruce Wayne</Name>
+            <ID>555-12-6543</ID>
+            <AssignedWork>
+                <GradedWork category="Exams">
+                    <Name>ID</Name>
+                    <Grade>80</Grade>
+                    <Name>Mid Term</Name>
+                    <Grade>10</Grade>
+                </GradedWork>
+                <GradedWork category="Assignments">
+                    <Name>ID</Name>
+                    <Grade>90</Grade>
+                    <Name>Mid Term</Name>
+                    <Grade>85</Grade>
+                </GradedWork>
+                <GradedWork category="Programming Assignments">
+                    <Name>ID</Name>
+                    <Grade>90</Grade>
+                </GradedWork>
+            </AssignedWork>
+            <Total>62.5</Total>
+            <Grade>D</Grade>
+        </Student>
+    </Grade>
+</GradeBook>
